@@ -70,7 +70,7 @@ Check the [issues](../../issues) labeled `good first issue` or `beginner-friendl
 
 ## 💬 Community
 
-* Join the [HSSoC Discord](https://discord.gg/hashslap) (Mandatory)
+* Join the [HSSoC Discord](https://discord.gg/s5hmmAMeTD) (Mandatory)
 * Ask doubts or help others in the appropriate channels.
 
 ---
